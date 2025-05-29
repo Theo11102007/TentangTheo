@@ -1,0 +1,114 @@
+body{
+    background-color: #051320;
+}
+header{
+    text-align: right;
+    color: #fff;
+    padding: 10px;
+}
+nav ul{ 
+    list-style: none;
+}
+
+nav ul li{
+    display: inline;
+    margin-right: 80px;
+}
+nav ul li a{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    text-decoration: none;
+
+}
+.cas{
+    text-align: none;
+}
+.cas h4{
+    font-size: 18px;
+    font-family: Helvetica, sans-serif ;
+    text-align: left;
+    margin-top: 80px;
+    margin-left: 90px;
+    color: #498BC9;
+}
+.cas h2{
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    margin-left: 90px;
+    color: #fff;
+}
+
+.cas p{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    width: 370px;
+    margin-left: 90px;
+    color: #838687;
+}
+.cas img{
+    text-align: none;
+    position: relative;
+    border-radius: 15px;
+    height: 200px;
+    top: -220px;
+    left: 900px;
+}
+.image{
+    margin-left: 20px;
+    border-radius: 50%;
+    overflow: hidden;
+    width: 50px;
+    height: 50px;
+    border: 2px solid white;
+}
+.image img{
+    display: block;
+    min-height: 100%;
+    min-width: 100%;
+}
+
+.grs hr{
+    position: relative;
+    top: -200px;
+    width: 86%; /* Atur lebar garis */
+    margin: 20px auto; /* Tengah-tengahkan garis dengan margin otomatis */
+    border: none; /* Hilangkan border default */
+    height: 2px; /* Tinggi garis */
+    background-color: #fff; /* Warna garis */
+}
+.grs h2{
+    position: relative;
+    top: -200px;
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    margin-left: 90px;
+    color: #498BC9;
+}
+.grs .gah h4{
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -170px;
+    left: 687px;
+    text-align: none;
+    margin-right: 90px;
+    color: #fff;
+}
+.grs .gah img{
+    position: relative;
+    top: -250px;
+    margin-left: 45px;
+    height: 250px;
+    width: auto;
+}
+.grs p{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -460px;
+    left: 687px;
+    color: #838687;
+}
